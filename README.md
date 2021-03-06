@@ -3,8 +3,8 @@ For work, I build embedded software for systems that must not fail.
 For play, I build software that teaches me something new.
 
 I have written:
-- **C** code that runs underground, and **C++** code that flies in the stratosphere
-- **AVR assembly** for a chip with less than a kilobyte of RAM, and **x64 assembly** for a supercomputer with a trillion times as much
+- **C** code for an underground platform, and **C++** code for a stratospheric one
+- **audio processing code** for a chip with less than a kilobyte of RAM, and **linear algebra kernels** for a supercomputer with a trillion times as much
 - **real-time** code for processing radar signals, and **offline** code for translating JVM bytecode
 
 I believe that:
