@@ -9,8 +9,8 @@ I have written:
 
 I believe that:
 - complex computing systems introduce creeping fragility into everyday life
-- history will judge harshly our reckless use of unsafe programming languages (the heritage of C)
-- the most important question we can ask is “how much is too much?”
+- history will judge harshly our reckless use of unsafe programming languages
+- the most important question we can ever ask is “how much will be too much?”
 
 The projects I publish, I wrote to teach myself something.  
 Making them public gives me reason to be rigorous and tidy.  
